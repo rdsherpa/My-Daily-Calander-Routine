@@ -16,6 +16,5 @@ I leard to research more and use JQuery, Bootstraps, Moment.JS which can be used
 
 # <Screen-Shot-of-My-Daily-Calander-Routine>
 
-![alt text](/Screen%20Shot%202022-09-19%20at%2010.53.52%20PM.png)
-![alt text](/Screen%20Shot%202022-09-19%20at%2010.54.38%20PM.png)
+![alt text](/Screen%20Shot%202022-09-21%20at%2011.42.37%20AM.png)
 
