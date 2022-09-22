@@ -9,7 +9,6 @@ $(document).ready(function (){
 
     // loop over time blocks
     $('.time-block').each(function () {
-      console
       var blockHour = parseInt($(this).attr('id').split('-')[1]);
 
       // check if we've moved past this time
@@ -22,7 +21,7 @@ $(document).ready(function (){
       else {
         $(this).removeClass('past');
         $(this).removeClass('present');
-        $(this).removeClass('future');
+        $(this).addClass('future');
     }
   });
 }
